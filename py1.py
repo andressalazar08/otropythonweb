@@ -10,4 +10,13 @@ elif x<0:
     print("x es negativo")
 else:
     print("x es cero")
-    
+
+
+name="Ruty"#Esto es un string
+coordinadas=(10.1,50.6)
+names=["Ruty", "Joaquin","Ivan", "Juanca"]#Esto es una lista
+
+for i in range(5):
+    print(i)
+
+
